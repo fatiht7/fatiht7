@@ -59,15 +59,6 @@ I am a second-year **BUT Informatique student** at **IUT Annecy**, specializing 
 
 ---
 
-## 📂 Selected Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [Portfolio](https://github.com/fatiht7/portfolio) | Portfolio presenting my Data, BI and development projects. | HTML, CSS, JavaScript |
-| [Secure File Storage](https://github.com/fatiht7/secure-file-storage) | Secure file storage and sharing using hybrid encryption. | PHP, PostgreSQL, AES-256-GCM, RSA-2048 |
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
