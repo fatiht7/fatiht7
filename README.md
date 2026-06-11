@@ -1,3 +1,22 @@
+# Hi, I'm Fatih TURK
+
+### Data, Business Intelligence & Database Student
+
+I am a second-year **BUT Informatique student** at **IUT Annecy**, specializing in **Administration, Management and Exploitation of Data**.
+
+- I build dashboards, data models and decision-support tools.
+- I work across the data pipeline: preparation, ETL, databases, analysis and visualization.
+- I am looking for a **Data / BI / Database apprenticeship starting in September 2026**.
+- Based in **Annecy, France**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fatih-tk"><img src="https://img.shields.io/badge/LinkedIn-Fatih_TURK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:fatih.turk070@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/fatiht7/portfolio"><img src="https://img.shields.io/badge/Portfolio-View_repository-72E1CF?style=for-the-badge&logo=github&logoColor=111111"></a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
